@@ -7,7 +7,11 @@
 # Include directories
 !*/
 
+# Include makefile
+!makefile
+
 # Begin actual ignores
+bin/
 *.o
 
 *.swp
